@@ -4,29 +4,21 @@ A curated collection of practical, ready-to-use project management templates, fr
 ## 📁 Repository Structure (Overview) 
 This repo is organized around the major phases of a project, plus the frameworks and documentation that support them:
 
-### *Initiation*
-Project charters, stakeholder registers, communication plans, RACI matrices.
+### *Initiation* - Project charters, stakeholder registers, communication plans, RACI matrices.
 
-### *Planning*
-WBS outlines, sprint planning checklists, backlog grooming guides, estimation notes.
+### *Planning* - WBS outlines, sprint planning checklists, backlog grooming guides, estimation notes.
 
-### *Execution*
-Standup notes, issue logs, change request templates, decision logs.
+### *Execution* - Standup notes, issue logs, change request templates, decision logs.
 
-### *Monitoring & Control*
-RAID logs, risk registers, status report templates, KPI/metrics examples.
+### *Monitoring & Control* - RAID logs, risk registers, status report templates, KPI/metrics examples.
 
-### *Closure*
-Retrospectives, handoff checklists, lessons learned templates.
+### *Closure* -Retrospectives, handoff checklists, lessons learned templates.
 
-### *Frameworks*
-PMBOK 8 notes, Agile/Scrum workflows, Kanban practices, hybrid delivery models.
+### *Frameworks* -PMBOK 8 notes, Agile/Scrum workflows, Kanban practices, hybrid delivery models.
 
-### *Workflow Diagrams*
-Mermaid diagrams for onboarding flows, ticket triage, release processes, and other operational systems.
+### *Workflow Diagrams* -Mermaid diagrams for onboarding flows, ticket triage, release processes, and other operational systems.
 
-### *Documentation Templates*
-SOP templates, requirements gathering guides, meeting notes, and communication structures.
+### *Documentation Templates* -SOP templates, requirements gathering guides, meeting notes, and communication structures.
 
 
 ---
