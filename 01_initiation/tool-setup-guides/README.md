@@ -25,11 +25,11 @@ A tool‑agnostic thinking guide with questions, prompts, and tips to help you d
 Focused, practical setup guides for individual tools. These cover the minimum effective configuration a PM should consider or complete during initiation to prevent downstream confusion or administrative bottlenecks.
 
 Current guides include:
-- Overarching tool setup guide 
+- [Overarching tool setup guide](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/01_initiation/tool-setup-guides/tool-setup-guide.md)
+- [Google Workspace-Gmail Setup](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/01_initiation/tool-setup-guides/gmail-setup.md)
+- [Microsoft 365-Outlook Setup](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/01_initiation/tool-setup-guides/outlook-setup.md)
 
 Planned additions (as needed):
-- **Gmail Setup Guide** (Google Workspace)
-- Outlook Setup Guide (Microsoft 365)  
 - Teams Setup Guide  
 - Google Drive Setup Guide  
 - OneDrive / SharePoint Setup Guide  
