@@ -93,6 +93,7 @@ File → Options → Mail → Message arrival
 Organize your inbox from day one.
 
 **Example:**  
+```
 Active Projects
 📂└── Project Alpha
 📂├── Approvals
@@ -100,7 +101,7 @@ Active Projects
 📂├── Stakeholders
 📂├── Risks
 📂└── Deliverables
-
+```
 
 
 Pair folders with rules for automatic sorting.
