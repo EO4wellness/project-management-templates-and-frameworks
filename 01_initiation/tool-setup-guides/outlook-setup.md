@@ -59,10 +59,10 @@ Home → Rules → Manage Rules & Alerts → New Rule
 Categories help you quickly identify project‑related emails, approvals, risks, or action items.
 
 **Examples:**  
-- Red = Urgent  
-- Blue = Project Alpha  
-- Green = Approvals  
-- Yellow = Vendor Communication  
+- 🟥 Red = Urgent  
+- 🟦 Blue = Project Alpha  
+- 🟩 Green = Approvals  
+- 🟨 Yellow = Vendor Communication  
 
 **Set it up:**  
 Home → Categorize → All Categories
