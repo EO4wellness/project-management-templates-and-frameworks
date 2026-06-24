@@ -46,23 +46,17 @@ My approach to project management is grounded in clarity, structure, and inclusi
 
 ### Espoused Values:
 
-**Clarity early.**  
-Defining scope, expectations, and decision pathways before work begins. Protecting boundaries preventing scope creep through transparency and shared understanding.
+**Clarity early.**  - Defining scope, expectations, and decision pathways before work begins. Protecting boundaries preventing scope creep through transparency and shared understanding.
 
-**Inclusive communication.**  
-Design communication systems that support every voice — synchronous and asynchronous, introverted to extroverted, neurodiverse and neurotypical. Provide multiple ways to contribute, clear input windows, and accessible formats so no one is excluded from decision-making and input. The voice of every stakeholder is valued. 
+**Inclusive communication.**  - Design communication systems that support every voice — synchronous and asynchronous, introverted to extroverted, neurodiverse and neurotypical. Provide multiple ways to contribute, clear input windows, and accessible formats so no one is excluded from decision-making and input. The voice of every stakeholder is valued. 
 
-**Accessibility and equity.**  
-Ensure communication is readable, usable, and accessible for all team members and stakeholders. Share materials in advance, summarize decisions in writing, and avoid “meeting-only” decision making whenever possible.
+**Accessibility and equity.**  - Ensure communication is readable, usable, and accessible for all team members and stakeholders. Share materials in advance, summarize decisions in writing, and avoid “meeting-only” decision making whenever possible.
 
-**Structured thinking.**  
-Use templates, checklists, and thinking guides to bring consistency and rigor to every phase of the project lifecycle.
+**Structured thinking.**   - Use templates, checklists, and thinking guides to bring consistency and rigor to every phase of the project lifecycle.
 
-**Human-centered leadership.**  
-Projects succeed when people feel heard, respected, and supported. I prioritize psychological safety, thoughtful collaboration, and communication that meets people where they are.
+**Human-centered leadership.**  - Projects succeed when people feel heard, respected, and supported. I prioritize psychological safety, thoughtful collaboration, and communication that meets people where they are.
 
-**Continuous alignment.**  
-Maintain visibility, reinforce key messages, and keep stakeholders informed through purposeful, sustainable communication practices.
+**Continuous alignment.**   -  Maintain visibility, reinforce key messages, and keep stakeholders informed through purposeful, sustainable communication practices.
 
 This philosophy shapes every artifact in this repository and reflects the core approach to real-world project work.
 
