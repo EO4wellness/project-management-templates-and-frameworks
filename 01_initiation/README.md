@@ -7,8 +7,8 @@ Where appropriate, I've included **Templates**, which are fill-in-the-blanks doc
 ## Contents:
 - Project Charter:  [Template](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/01_initiation/project-charter-template.md) | [Checklist](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/01_initiation/project-charter-checklist.md) | [Thought Guide](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/01_initiation/project-charter-thought-guide.md)
 - Stakeholder Register: [Template](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/01_initiation/stakeholder-register-template.md) | [Checklist](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/01_initiation/stakeholder-register-checklist.md) | [Thought Guide](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/01_initiation/stakeholder-register-thought-guide.md)
-- Communication Plan
-- RACI Matrix
+- Communication Plan: [Template](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/01_initiation/communication-plan-template.md) | [Checklist](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/01_initiation/communication-plan-checklist.md) | [Thought Guide](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/01_initiation/communication-plan-thought-guide.md) 
+- RACI Matrix: [Template](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/01_initiation/raci-matrix-template.md) | [Checklist](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/01_initiation/raci-matrix-checklist.md) | [Thought Guide](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/01_initiation/raci-matrix-thought-guide.md)
 
 
 ## AI Tools in Project Management (Benefits, Risks, and Best Practices)
