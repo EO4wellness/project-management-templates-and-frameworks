@@ -36,6 +36,7 @@ Below are guiding questions which can be usedful in strengthen clarity, alignmen
 - What assumptions are we making that could be wrong?
 - What boundaries must be respected (legal, technical, operational)?
 - What work is intentionally excluded to prevent scope creep?
+- Have the change-control process for out-of-scope requests been defined, agreed upon, and documented, including who evaluates them and who approves them?
 
 ---
 
