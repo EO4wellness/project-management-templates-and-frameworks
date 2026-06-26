@@ -6,7 +6,7 @@ This repo is organized around the major phases of a project, plus the frameworks
 
 ### *Initiation* - Project charters, stakeholder registers, communication plans, RACI matrices.
 
-### *Planning* - WBS outlines, sprint planning checklists, backlog grooming guides, estimation notes.
+### *Planning* - Kickoff Meeting Template, WBS outlines, sprint planning checklists, backlog grooming guides, estimation notes.
 
 ### *Execution* - Standup notes, issue logs, change request templates, decision logs.
 
