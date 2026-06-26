@@ -1,4 +1,4 @@
-# Kickoff Meeting — Thinking Guide
+# Kickoff Meeting — Thought Guide
 
 Use this guide to think strategically about the kickoff meeting, anticipate risks, and capture private observations that will help you as PM to lead the team effectively. This guide complements the Kickoff Template and Checklist by focusing on judgment, alignment, interpersonal dynamics, and early signals that influence project success.
 
