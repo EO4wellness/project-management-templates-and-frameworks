@@ -1,4 +1,4 @@
-# 📚 Professional Development
+# Professional Development
 
 ## Overview
 This section provides resources that support **professional growth**, **career development**, and **continuing education** for Project Managers at all levels. While the main folders focus on PMBOK‑aligned project execution, this area is designed to help you strengthen the skills, habits, and learning pathways that sustain a long-term PM career.
