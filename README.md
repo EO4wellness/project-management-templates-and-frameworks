@@ -20,6 +20,7 @@ This repo is organized around the major phases of a project, plus the frameworks
 
 ### *Documentation Templates* -SOP templates, requirements gathering guides, meeting notes, and communication structures.
 
+### *Professional Development* -Resources for career growth, learning pathways, mentoring, and continuing education.
 
 ---
 
