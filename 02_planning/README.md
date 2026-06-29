@@ -7,7 +7,7 @@ Where appropriate, I've included **Templates**, which are fill‑in‑the‑blan
 ## Contents
 
 - Kickoff Meeting: [Template](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/02_planning/kickoff-meeting/kickoff-meeting-template.md) | [Checklist](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/02_planning/kickoff-meeting/kickoff-meeting-checklist.md) | [Thinking Guide](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/02_planning/kickoff-meeting/kickoff-meeting-thought-guide.md)
-- WBS Outline: Template | [Thought Guide](#)
+- WBS Outline: [Template](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/02_planning/WBS-Template.md) | [Thought Guide](#)
 - Agile Planning Tools: Sprint Planning Checklist | Backlog Grooming Guide  
 - Estimation Notes 
 
