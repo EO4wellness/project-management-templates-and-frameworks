@@ -42,6 +42,15 @@ The WBS is one of the core artifacts of the Planning phase. It decomposes the pr
   - [Company Event](./WBS-Example1.md)  
   - [SaaS Feature Release](./WBS-Example2.md)  
   - [Healthcare Operations Project](./WBS-Example3.md)
+ 
+## Agile Planning 
+Today, Agile planning is so vital to Project Management, I've included a greater number of Agile resources without neglecting the other methods. But, when ever there are a large number of tools available, they can get lost.  Here is a summary of what's available: 
+-    [Sprint-Planning-Checklist.md](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/02_planning/sprint-plan-checklist.md)
+-    [Sprint-Planning-Thinking-Guide.md](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/02_planning/sprint-guide.md)
+-    [Backlog-Grooming/Thinking-Guide.md](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/02_planning/backlog.md)
+-    [DoR & DoD: Definition-of-Ready-and-Done](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/02_planning/agile-planning-DoR-DoD.md)
+-    [Agile-Estimation-Guide.md](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/02_planning/agile-estimation-guide.md)
+-    [Sprint-Goals-and-Planning-Overview.md](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/02_planning/sprint-goals-and-planning-overview.md)
 
 ### Optional Formats (for future expansion)
 
