@@ -2,16 +2,16 @@
 
 Consult this checklist before sending the project updates to Stakeholder(s):
 
-- Is a descision needed? Clearly lable the SUBJECT line of your email with Decision Needed: brief summary 
+- Is a decision needed? Clearly label the SUBJECT line of your email with Decision Needed: brief summary 
 - Clear, concise **summary** included  
 - **Completed**, **In Progress**, and **Upcoming** work listed  
 - **Risks/Issues** documented with owners and mitigation  
 - **Decisions Needed** clearly stated with deadlines  
-- Language is scannable and free of jargon  
+- Language is scanable and free of jargon  
 - Email can be read in **under 2 minutes**  
 - No surprises — stakeholders should already be aware of major items  
 - Aligned with latest **Issue Log**, **Risk Register**, and **Decision Log**  
 - Metrics included only if they add clarity  
 - Tone is neutral, professional, and consistent
-- Is it skimmable? - rewrite if necessary 
+- Is it skimable? - rewrite if necessary 
 - Does this communication align with project's Stakeholder Communication preferences and Matrix documents? 
