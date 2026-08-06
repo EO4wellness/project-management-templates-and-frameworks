@@ -18,12 +18,12 @@ Execution tools help teams:
 ## Contents
 
 ### Daily Coordination  
-- **Standup Notes** — Template | Checklist | Example  
-- **Weekly Status Report** — Template | Example  
-- **Stakeholder Update Email** — Template | Example  
+- **Standup Notes** — [Template](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/03_execution/daily-coordination/standup-notes-template.md) | [Checklist](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/03_execution/daily-coordination/standup-checklist.md) | [Guide](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/03_execution/daily-coordination/standup-thinking-guide.md) | [Example](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/03_execution/daily-coordination/standup-notes-example.md)  
+- **Weekly Status Report** — [Template](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/03_execution/daily-coordination/weekly_status_report_template.md) | [Checklist](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/03_execution/daily-coordination/weekly_status_checklist.md) | [Guide](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/03_execution/daily-coordination/weekly-status-thinking-guide.md) | [Example](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/03_execution/daily-coordination/weekly_status_report_example.md) 
+- **Stakeholder Update Email** — [Template](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/03_execution/daily-coordination/stakeholder-update-email-template.md) | [Checklist](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/03_execution/daily-coordination/stakeholder-update-email-checklist.md) | [Example](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/03_execution/daily-coordination/stakeholder-update-email-example.md)  
 
 ### Tracking & Transparency  
-- **Issue Log** — Template | Example  
+- **Issue Log** — Template | Checklist | Example 
 - **Decision Log** — Template | Example  
 - **Change Request Form** — Template | Example  
 - **Risk Register** — Template | Example  
