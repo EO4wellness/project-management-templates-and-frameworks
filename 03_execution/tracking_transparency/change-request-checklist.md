@@ -20,9 +20,19 @@ A checklist to use before designing, submitting or approving a Change Request:
 - No missing information that would delay approval  
 
 ## Governance
-- CR is significant enough to warrant formal change control  
+- Change is significant enough to warrant formal change control  
 - CR aligns with project governance rules  
-- CR will be logged in the Decision Log once approved  
+- Decision will be logged in the Decision Log  
+- Stakeholders impacted by the change are identified  
+- **Change has been evaluated for scope creep (explicitly check for hidden or incremental scope expansion)**
+
+## Scope Creep Evaluation
+- Does this change add new deliverables or requirements?  
+- Does this change expand the scope of existing work?  
+- Does this change require additional resources or time?  
+- Is this change part of a pattern of incremental scope increases?  
+- Has the team acknowledged the scope impact and agreed to adjustments?  
+
 
 ---
 
