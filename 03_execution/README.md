@@ -31,10 +31,10 @@ Execution tools help teams:
 - **ROAM Analysis Worksheet** — Template | Example  
 
 ### Monitoring Tools  
-- **Gantt Chart** — Template (Google Sheets / Excel)  
-- **Roadmap** — Template  
-- **Burndown Chart** — Template  
-- **Execution Dashboard (AI‑Ready)** — Template  
+- **Gantt Chart** — [Best Practice & Pitfall Info](https://github.com/EO4wellness/project-management-templates-and-frameworks/tree/main/03_execution/monitoring-tools/gantt-chart) | [Template](#)
+- **Roadmap** — [Best Practice & Pitfalls](https://github.com/EO4wellness/project-management-templates-and-frameworks/tree/main/03_execution/monitoring-tools/roadmap) | [Template](#)  
+- **Burndown Chart** — [Best Practice & Pitfall Info]() | [Template](#)
+- **Execution Dashboard (AI‑Ready)** —  [Best Practice & Pitfall Info]() | [Template](#)
 
 ### Communication & Escalation  
 - **Escalation Email** — Template | Example  
