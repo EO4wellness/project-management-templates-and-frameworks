@@ -16,7 +16,7 @@ This template provides both **Excel** and **Google Sheets** versions designed fo
 
 ## How to Use This Template
 
-### 1. Define Your Timeframe
+### 1. Define Your Time Frame
 Choose the scale that fits your project:
 - Quarterly (Q1–Q4)  
 - Monthly  
@@ -112,6 +112,23 @@ Use this quick checklist (inspired by PM best practices) to ensure your roadmap 
 - **Does the roadmap tell a coherent story at a glance?**
 
 If the answer is “no” to any of these, refine before sharing.
+
+### Confidence Rating Checklist
+Ask these questions when assigning confidence:
+
+- Has the team done similar work before?
+- Are requirements stable or still evolving?
+- Are there external dependencies?
+- Is the scope well understood?
+- Are risks known and manageable?
+- Does the team have the necessary skills?
+- Is the timeline aggressive or reasonable?
+
+If most answers lean toward uncertainty, assign **Low Confidence**.
+NOTE: If your project is AI-ready, confidence ratings help models 
+- Flag risky milestones
+- Better predict slippage
+- Suggest mitigation strategies 
 
 ---
 
