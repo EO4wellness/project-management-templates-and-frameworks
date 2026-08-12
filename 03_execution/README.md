@@ -33,8 +33,8 @@ Execution tools help teams:
 ### Monitoring Tools  
 - **Gantt Chart** — [Best Practice & Pitfall Info](https://github.com/EO4wellness/project-management-templates-and-frameworks/tree/main/03_execution/monitoring-tools/gantt-chart) | [Template](#)
 - **Roadmap** — [Best Practice & Pitfalls](https://github.com/EO4wellness/project-management-templates-and-frameworks/tree/main/03_execution/monitoring-tools/roadmap) | [Template](#)  
-- **Burndown Chart** — [Best Practice & Pitfall Info]() | [Template](#)
-- **Execution Dashboard (AI‑Ready)** —  [Best Practice & Pitfall Info]() | [Template](#)
+- **Burndown Chart** — [Best Practice & Pitfall Info](https://github.com/EO4wellness/project-management-templates-and-frameworks/tree/main/03_execution/monitoring-tools/burndown-chart) | [Template](#)
+- **Execution Dashboard (AI‑Ready)** —  [Best Practice & Pitfall Info](https://github.com/EO4wellness/project-management-templates-and-frameworks/tree/main/03_execution/monitoring-tools/ai-ready-execution-dashboard) | [Template](#)
 
 ### Communication & Escalation  
 - **Escalation Email** — Template | Example  
